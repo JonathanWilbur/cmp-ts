@@ -59,6 +59,8 @@
     "version": "0.1.0",
     "dependencies": {
         "asn1-ts": "^3.3.1",
+        "crmf-ts": "^0.1.0",
+        "pkcs-ts": "^1.0.0-rc7",
         "x500-ts": "^1.0.0-rc1"
     }
 }
