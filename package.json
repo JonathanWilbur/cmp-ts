@@ -9,7 +9,7 @@
             "url": "https://github.com/JonathanWilbur"
         }
     ],
-    "description": "",
+    "description": "Certificate Management Protocol (CMP) in TypeScript",
     "devDependencies": {
         "@babel/core": "^7.10.3",
         "@babel/preset-env": "^7.10.3",
@@ -42,7 +42,7 @@
     "keywords": [],
     "license": "MIT",
     "main": "./dist/node/index.js",
-    "name": "",
+    "name": "cmp-ts",
     "scripts": {
         "benchmark": "node ./test/benchmark.js",
         "breaking-update": "npx ncu -u && npm install",
